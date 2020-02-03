@@ -1,6 +1,0 @@
-D:\BITM\Practice\NameListUI\NameListUI\bin\NameListUI.dll.config
-D:\BITM\Practice\NameListUI\NameListUI\bin\NameListUI.dll
-D:\BITM\Practice\NameListUI\NameListUI\bin\NameListUI.pdb
-D:\BITM\Practice\NameListUI\NameListUI\obj\Debug\NameListUI.csprojResolveAssemblyReference.cache
-D:\BITM\Practice\NameListUI\NameListUI\obj\Debug\NameListUI.dll
-D:\BITM\Practice\NameListUI\NameListUI\obj\Debug\NameListUI.pdb

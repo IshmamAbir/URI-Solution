@@ -1,9 +1,0 @@
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\bin\Debug\personal-InfoForm.exe.config
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\bin\Debug\personal-InfoForm.exe
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\bin\Debug\personal-InfoForm.pdb
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\obj\Debug\personal-InfoForm.csprojResolveAssemblyReference.cache
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\obj\Debug\personal_InfoForm.Form1.resources
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\obj\Debug\personal_InfoForm.Properties.Resources.resources
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\obj\Debug\personal-InfoForm.csproj.GenerateResource.Cache
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\obj\Debug\personal-InfoForm.exe
-D:\BITM\Practice\personal-InfoForm\personal-InfoForm\obj\Debug\personal-InfoForm.pdb

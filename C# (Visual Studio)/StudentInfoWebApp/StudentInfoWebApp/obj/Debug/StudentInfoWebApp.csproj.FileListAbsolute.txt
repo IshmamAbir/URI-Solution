@@ -1,6 +1,0 @@
-D:\BITM\Practice\StudentInfoWebApp\StudentInfoWebApp\bin\StudentInfoWebApp.dll.config
-D:\BITM\Practice\StudentInfoWebApp\StudentInfoWebApp\bin\StudentInfoWebApp.dll
-D:\BITM\Practice\StudentInfoWebApp\StudentInfoWebApp\bin\StudentInfoWebApp.pdb
-D:\BITM\Practice\StudentInfoWebApp\StudentInfoWebApp\obj\Debug\StudentInfoWebApp.csprojResolveAssemblyReference.cache
-D:\BITM\Practice\StudentInfoWebApp\StudentInfoWebApp\obj\Debug\StudentInfoWebApp.dll
-D:\BITM\Practice\StudentInfoWebApp\StudentInfoWebApp\obj\Debug\StudentInfoWebApp.pdb
