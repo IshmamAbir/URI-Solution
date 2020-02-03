@@ -1,0 +1,6 @@
+D:\BITM\Practice\AccountWebApp\AccountWebApp\bin\AccountWebApp.dll.config
+D:\BITM\Practice\AccountWebApp\AccountWebApp\bin\AccountWebApp.dll
+D:\BITM\Practice\AccountWebApp\AccountWebApp\bin\AccountWebApp.pdb
+D:\BITM\Practice\AccountWebApp\AccountWebApp\obj\Debug\AccountWebApp.csprojResolveAssemblyReference.cache
+D:\BITM\Practice\AccountWebApp\AccountWebApp\obj\Debug\AccountWebApp.dll
+D:\BITM\Practice\AccountWebApp\AccountWebApp\obj\Debug\AccountWebApp.pdb

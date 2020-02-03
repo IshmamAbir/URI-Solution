@@ -1,0 +1,9 @@
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\bin\Debug\lunchBillCalculatorForm.exe.config
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\bin\Debug\lunchBillCalculatorForm.exe
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\bin\Debug\lunchBillCalculatorForm.pdb
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\obj\Debug\lunchBillCalculatorForm.csprojResolveAssemblyReference.cache
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\obj\Debug\lunchBillCalculatorForm.Lunch.resources
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\obj\Debug\lunchBillCalculatorForm.Properties.Resources.resources
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\obj\Debug\lunchBillCalculatorForm.csproj.GenerateResource.Cache
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\obj\Debug\lunchBillCalculatorForm.exe
+D:\BITM\Practice\lunchBillCalculatorForm\lunchBillCalculatorForm\obj\Debug\lunchBillCalculatorForm.pdb

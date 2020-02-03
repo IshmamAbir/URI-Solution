@@ -1,0 +1,9 @@
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\bin\Debug\StudentsDatabaseForm.exe.config
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\bin\Debug\StudentsDatabaseForm.exe
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\bin\Debug\StudentsDatabaseForm.pdb
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\obj\Debug\StudentsDatabaseForm.csprojResolveAssemblyReference.cache
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\obj\Debug\StudentsDatabaseForm.Form1.resources
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\obj\Debug\StudentsDatabaseForm.Properties.Resources.resources
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\obj\Debug\StudentsDatabaseForm.csproj.GenerateResource.Cache
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\obj\Debug\StudentsDatabaseForm.exe
+D:\BITM\Practice\StudentsDatabaseForm\StudentsDatabaseForm\obj\Debug\StudentsDatabaseForm.pdb

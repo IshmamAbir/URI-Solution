@@ -1,0 +1,9 @@
+D:\BITM\Practice\NameListForm\NameListForm\bin\Debug\NameListForm.exe.config
+D:\BITM\Practice\NameListForm\NameListForm\obj\Debug\NameListForm.csprojResolveAssemblyReference.cache
+D:\BITM\Practice\NameListForm\NameListForm\obj\Debug\NameListForm.Form1.resources
+D:\BITM\Practice\NameListForm\NameListForm\obj\Debug\NameListForm.Properties.Resources.resources
+D:\BITM\Practice\NameListForm\NameListForm\obj\Debug\NameListForm.csproj.GenerateResource.Cache
+D:\BITM\Practice\NameListForm\NameListForm\bin\Debug\NameListForm.exe
+D:\BITM\Practice\NameListForm\NameListForm\bin\Debug\NameListForm.pdb
+D:\BITM\Practice\NameListForm\NameListForm\obj\Debug\NameListForm.exe
+D:\BITM\Practice\NameListForm\NameListForm\obj\Debug\NameListForm.pdb

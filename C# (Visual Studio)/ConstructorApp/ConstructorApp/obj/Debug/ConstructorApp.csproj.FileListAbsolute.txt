@@ -1,0 +1,6 @@
+D:\BITM\Practice\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.exe.config
+D:\BITM\Practice\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.exe
+D:\BITM\Practice\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.pdb
+D:\BITM\Practice\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.csprojResolveAssemblyReference.cache
+D:\BITM\Practice\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.exe
+D:\BITM\Practice\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.pdb
